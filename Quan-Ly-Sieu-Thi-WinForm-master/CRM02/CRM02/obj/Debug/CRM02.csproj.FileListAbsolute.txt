@@ -1,0 +1,37 @@
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\bin\Debug\CRM02.exe.config
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\bin\Debug\CRM02.exe
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\bin\Debug\CRM02.pdb
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.csprojAssemblyReference.cache
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.frmLogin.resources
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.Properties.Resources.resources
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.csproj.GenerateResource.cache
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.csproj.CoreCompileInputs.cache
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.exe
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.pdb
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.frmMain.resources
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.frmKhachHang.resources
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.frmTraCuuThongTin.resources
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.frmNhanVien.resources
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.frmSanPham.resources
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.frmDonHang.resources
+D:\Desktop\Do_An_Mon_CRM\ICH2019-CRM02\MaNguon\CRM02\CRM02\obj\Debug\CRM02.frmHangThanhVien.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\bin\Debug\CRM02.exe.config
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\bin\Debug\CRM02.exe
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\bin\Debug\CRM02.pdb
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.csprojAssemblyReference.cache
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.FormKiemDuyetLenHang.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmBanHang.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmChiTietDH.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmHangThanhVien.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmDonHang.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmNhanVien.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmSanPham.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmTraCuuThongTin.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmKhachHang.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmLogin.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.frmMain.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.Properties.Resources.resources
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.csproj.GenerateResource.cache
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.csproj.CoreCompileInputs.cache
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.exe
+D:\Hoctap\Nam 4\Ky_1_nam4\CNPM\Quan-Ly-Sieu-Thi-WinForm-master\Quan-Ly-Sieu-Thi-WinForm-master\CRM02\CRM02\obj\Debug\CRM02.pdb
